@@ -1,1 +1,9 @@
-Hướng dẫn train Yolo11v bằng google colab trên dữ liệu đã được label 
+Hướng dẫn train Yolo11v bằng google colab trên dữ liệu đã được label. 
+
+Input: 
+- Dữ liệu đã được label, gồm train, test, validation 
+- Video có đối tượng cần detect 
+Output: video chứa đối tượng đã được detect 
+
+Bước 1: Upload dataset này lên google drive 
+Bước 2: set up google colab 
